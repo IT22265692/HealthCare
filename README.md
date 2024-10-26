@@ -2,6 +2,14 @@
 
  <p><strong>FitPro</strong> is a mobile application designed to help users maintain their physical and mental well-being. The app features four main components that focus on fitness tracking, mood tracking, nutrition, and personalized wellness plans. This project was developed by four team members as part of a university project, with a special emphasis on providing a comprehensive health management solution.</p>
 
+<h2>Mental Fitness Component</h2>
+    <p>The Mental Fitness tracking is developed by Iresh Eranga. It helps users manage their dietary needs by providing tools for:</p>
+    <ul>
+      <li><strong>Suggest Mental Fitness Goals:</strong> According to user preferences suggest goals to the user and user can select that goals.</li>
+      <li><strong>Progress Tracking:</strong> Users can track their progress of activities they doing.</li>
+      <li><strong>Premium Goal Suggestion:</strong> Premium users can view more goals according to their health condition.</li>
+    </ul>
+    
  <h2>Nutrition Tracker Component</h2>
     <p>The Nutrition Tracker is a key feature of the app, developed by Shenori-Weerakoon. It helps users manage their dietary needs by providing tools for:</p>
     <ul>
